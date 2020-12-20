@@ -4,6 +4,7 @@ author: "Suran Wu"
 date: "December 20, 2020"
 output: html_document
 ---
+Code and data can be accessed via github at https://github.com/SuranWu/STA304-Final , licensed under MIT.
 
 ## Abstract
 
